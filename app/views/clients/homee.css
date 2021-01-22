@@ -1,0 +1,16 @@
+*{
+  margin-top: auto;
+}
+
+  body {
+    background: #eee;
+  
+    }
+    .card {
+      border: none;
+    }
+    .card-img {
+      border-radius: 0;
+    }
+    
+  
